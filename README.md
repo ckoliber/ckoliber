@@ -8,7 +8,7 @@ Now after 8 years of professional experience with keyboards, I'm advanced in the
 - NodeJS Backend Development
 - Erlang Backend Development
 - C Language
-- Cloud Engineer
+- Cloud Engineering
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ckoliber&show_icons=true&theme=highcontrast)
 
