@@ -1,4 +1,4 @@
-# Hi 👋, I'm Mohammad Hossein Nemati
+# Hi 👋, I'm Hoomaan Nemati
 
 ### 💡 Computer Science Student | Full-Stack Developer | Nature-Inspired Systems Enthusiast
 
@@ -6,14 +6,14 @@ I'm passionate about building scalable systems, modeling natural rules with comp
 
 ---
 
-📫 Reach me at: **ckoliber@gmail.com**
+📫 Reach me at: **hoomaanx@gmail.com**
 
 ### 🌐 Connect with me
 
-<a href="https://linkedin.com/in/ckoliber" target="_blank">
+<a href="https://linkedin.com/in/hoomaanx" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
 </a>
-<a href="https://t.me/ckoliber" target="_blank">
+<a href="https://t.me/hoomaanx" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="Telegram" width="30" height="30"/>
 </a>
 
@@ -37,4 +37,4 @@ I'm passionate about building scalable systems, modeling natural rules with comp
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ckoliber&show_icons=true&theme=highcontrast)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hoomaanx&show_icons=true&theme=highcontrast)
