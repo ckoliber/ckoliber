@@ -13,7 +13,7 @@ I'm passionate about building scalable systems, modeling natural rules with comp
 <a href="https://linkedin.com/in/hoomaanx" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
 </a>
-<a href="https://t.me/hoomaanx" target="_blank">
+<a href="https://t.me/hoomaan_x" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="Telegram" width="30" height="30"/>
 </a>
 
