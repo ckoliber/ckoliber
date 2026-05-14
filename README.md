@@ -11,6 +11,10 @@ I build reliable infrastructure, developer platforms, and backend systems around
 **Links:** [LinkedIn](https://linkedin.com/in/ckoliber) · [Telegram](https://t.me/ckoliber) · [Email](mailto:ckoliber@gmail.com)
 
 <p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ckoliber&theme=github_dark" alt="GitHub profile summary" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ckoliber&theme=github_dark" alt="Repositories per language" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ckoliber&theme=github_dark" alt="GitHub profile summary" />
+</p>
+
+<p>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ckoliber&theme=github_dark" alt="GitHub stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ckoliber&theme=github_dark" alt="Top languages by repository" />
 </p>
